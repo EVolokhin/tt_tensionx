@@ -2,7 +2,7 @@
 
 Simple UI with slide
 
-- [DEMO LINK](https://evolokhin.github.io/tt_tensionx/)
+- [DEMO LINK](https://evolokhin.github.io/tt_tensionx/index.html)
 
 ## Description
 - Javascript ;
