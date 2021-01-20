@@ -1,0 +1,19 @@
+.shop {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  border: 1px solid grey;
+
+  &__logo {
+    width: 100px;
+    border-radius: 5px;
+  }
+
+  &__link {
+    padding: 4px;
+    text-decoration: none;
+    border: 1px solid black;
+  }
+}

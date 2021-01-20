@@ -1,7 +1,34 @@
 @import "utils";
 @import "fonts";
 @import "typography";
+@import "card";
+@import "switch";
+@import "shop";
 
 body {
   background: $c-gray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.name {
+  text-align: center;
+}
+
+.container {
+  width: 340px;
+  border: 2px solid gray;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.cards-container {
+  display: flex;
+  overflow: auto;
+  scroll-behavior: smooth;
+
+  &::-webkit-scrollbar {
+    height: 0;
+  }
 }

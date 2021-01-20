@@ -1,0 +1,28 @@
+.switch {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  border-top: 1px solid grey;
+  background-color: whitesmoke;
+
+  &__icon {
+    width: 30px;
+    height: 30px;
+  }
+
+  &__select {
+    background-color: inherit;
+    border: none;
+    transition: transform 300ms;
+  }
+
+  &__select:hover {
+    fill: darkmagenta;
+    transform: scale(1.15);
+  }
+
+  &__select:active,
+  &__select:focus {
+    outline: none;
+  }
+}

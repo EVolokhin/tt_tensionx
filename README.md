@@ -1,4 +1,24 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Test Task TensionX
+
+Simple UI with slide
+
+- [DEMO LINK](https://evolokhin.github.io/tt_tensionx/)
+
+## Description
+- Javascript ;
+- HTML5 / CSS3;
+- CSS FlexBox
+- BEM;
+- Sass;
+
+## Local deployment
+
+### Installing
+* Fork and clone this repository
+* Run `npm install` in your terminal
+* Run `npm start`
+
+## Troubleshooting
+
+Any advise for common problems or issues.
+For any contributing or problem solving you could find me [LinkedIn](https://www.linkedin.com/in/yevhenii-volokhin-35250994/) and [Skype](https://join.skype.com/invite/cRzoxrymg4vx)
